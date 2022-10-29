@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuma872
 - 👀 I’m interested in fronted and backend
-- 🌱 I’m currently learning python, django
+- 🌱 I’m currently learning python, django, drf, js, vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
